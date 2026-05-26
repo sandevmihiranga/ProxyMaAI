@@ -14,7 +14,7 @@ A memory proxy that prevents context overflow by automatically shifting old toke
 - Install [llama.cpp](https://github.com/ggerganov/llama.cpp) with server support
 
 ### 2. Download and Configure Models
-1. Place your GGUF model file in the ProxyMaAI folder
+1. Place your GGUF file in the models folder in the main ProxyMaAI folder
 2. Rename it to match the `MODEL_NAME.gguf` in `ai_launcher.bat`
 
 ```python
