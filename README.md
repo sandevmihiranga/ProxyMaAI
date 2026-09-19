@@ -1,6 +1,6 @@
 # ProxyMaAI
 
-*A Better Context Manager for Local AI using llama.cpp*
+*A Better Context Manager for Local AI using llamafile*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
