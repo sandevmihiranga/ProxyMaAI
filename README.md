@@ -38,7 +38,7 @@ Before installing ProxyMaAI, make sure you have:
 * A GGUF model from [Hugging Face](https://huggingface.co?utm_source=chatgpt.com) or another provider
 * Python 3.10+
 * `requests` library installed
-* A copy of [llamafile](https://github.com/mozilla-ai/llamafile/releases?utm_source=chatgpt.com)
+* A copy of [llamafile](https://github.com/mozilla-ai/llamafile/releases)
 
 Install Python dependency:
 
@@ -56,7 +56,7 @@ llamafile.exe
 
 ## 2. Installation
 
-Download or place these files inside your project folder:
+Download and place these files inside your project folder:
 
 ```text
 context_proxy.py
@@ -67,7 +67,7 @@ ai_launcher.bat
 
 ## 3. Folder Structure
 
-Your ProxyMaAI folder should look like this:
+Your Final ProxyMaAI folder should look like this:
 
 ```text
 ProxyMaAI/
